@@ -13,3 +13,6 @@ Este es un mensaje editado completamente desde GitHub
 #### Acutalización en pc
 Este mensaje se hizo dese pc
 Guardamos un mensaje de ejemplo
+
+
+Texto agregado por otra persona
